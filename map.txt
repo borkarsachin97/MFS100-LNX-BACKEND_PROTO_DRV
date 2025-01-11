@@ -1,0 +1,10 @@
+2c0f:1005 MANTRA MFS100
+
+  iManufacturer           1 MANTRA
+  iProduct                2 MFS100
+  iSerial                 3 *********
+        bEndpointAddress     0x02  EP 2 OUT
+        bEndpointAddress     0x04  EP 4 OUT
+        bEndpointAddress     0x82  EP 2 IN
+        bEndpointAddress     0x88  EP 8 IN
+ 
