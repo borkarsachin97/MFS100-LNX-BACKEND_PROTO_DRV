@@ -2,7 +2,7 @@
 
 This repository provides a backend driver for the MFS100 fingerprint scanner on Linux. Currently, it supports streaming raw fingerprint data from the device and saving it to a file. This is the foundation for further development, such as converting the raw stream into fingerprint images.  
 
-![MFS100 with red light active](images/MFS100_Turned_On_SCN.jpg)  
+![MFS100 with red light active](images/RAW_Output_Of_File_and_Teminal.png)  
 *Figure 1: MFS100 device turned on, ready for fingerprint scanning.*  
 
 ---
